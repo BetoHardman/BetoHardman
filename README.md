@@ -4,7 +4,7 @@
 
 Landing pages, sites e automacao com IA. Brasilia, Brasil.
 
-Estudando Java e Spring Boot. Site: https://betohardman.cloud
+Estudando Java e Spring Boot. Site: 
 
 ---
 
